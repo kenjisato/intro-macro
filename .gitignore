@@ -2,3 +2,4 @@
 /doc/r/*.nb.html
 /doc/r/*_cache
 /doc/r/*_files
+.ipynb_checkpoints
