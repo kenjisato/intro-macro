@@ -1,7 +1,7 @@
 ---
 title: "Optimal Growth, Euler Equation"
 author: "Kenji Sato"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+date: '`r format(Sys.time(), "%B %d, %Y")`'
 output:
   html_document: default
   pdf_document:
@@ -67,7 +67,7 @@ $$
 Notice that 
 
 $$
-\theta = \frac{c u'(c)}{- u''(c)},
+\theta = - \frac{c u''(c)}{u'(c)},
 $$
 the right-hand side of which is called the coefficient of relative risk aversion. CRRA function
 has a **c**onstant coefficient of **r**elative **r**isk **a**version.
